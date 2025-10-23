@@ -1,5 +1,7 @@
-# Ignorer les .gitignore locaux dans les projets
-#**/.gitignore
+# Ignorer les .gitignore dans les sous-dossiers (mais pas celui de la racine)
+/*
+!.gitignore
+**/.gitignore
 
 # Ignorer les fichiers temporaires Jupyter
 **/.ipynb_checkpoints/
