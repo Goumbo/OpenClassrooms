@@ -1,15 +1,9 @@
-# Environnements virtuels
-venv/
-.env
+# Ignorer les .gitignore locaux dans les projets
+**/.gitignore
 
-# Fichiers temporaires Jupyter/Notebooks
-.ipynb_checkpoints/
-*.swp
+# Ignorer les fichiers temporaires Jupyter
+**/.ipynb_checkpoints/
 
-# Fichiers système macOS/Windows
-.DS_Store
-Thumbs.db
-
-# Fichiers Python compilés
-__pycache__/
-*.py[cod]
+# Ignorer les environnements Python
+**/venv/
+**/env/

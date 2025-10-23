@@ -84,7 +84,7 @@ Ce projet vise à **identifier des groupements de pays** pour le lancement inter
 ## 7. 🖼️ Visualisations Clés
 
 ### 1. Corrélation des variables
-![Heatmap](40.%20R%C3%A9sultats/Heatmap de Corrélation.png)
+![Heatmap](40.%20R%C3%A9sultats/Heatmap_de_Corrélation.png)
 *Exemple : La stabilité politique est anticorrélée au PIB/habitant (-21%).*
 
 ### 2. Dendrogramme (CAH - Normalisation MinMax)
@@ -92,11 +92,11 @@ Ce projet vise à **identifier des groupements de pays** pour le lancement inter
 *3 clusters identifiés : les pays sont regroupés par similitude économique et géographique.*
 
 ### 3. Cercle des corrélations (ACP - F3 et F4)
-![Cercle ACP](40.%20R%C3%A9sultats/Cercle de Corrélation.png)
+![Cercle ACP](40.%20R%C3%A9sultats/Cercle_de_Corrélation.png)
 *F3 : Variation de stock et stabilité politique. F4 : Classement affaire et croissance économique.*
 
 ### 4. Projection des individus
-![Projection ACP](40.%20R%C3%A9sultats/Projection des Individus.png)
+![Projection ACP](40.%20R%C3%A9sultats/Projection_des_Individus.png)
 *Le **groupe bleu** (à droite) regroupe les pays avec une forte stabilité politique et une consommation élevée de volailles, proches de la France.*
 
 ### 5. Top 5 des pays recommandés
