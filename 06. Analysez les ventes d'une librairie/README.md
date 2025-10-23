@@ -23,7 +23,7 @@ Ce projet consiste à analyser les ventes en ligne de **Lapage**, une librairie 
 ---
 
 ## 3. 🗂️ Structure du projet
-
+```
 06. Analyse les ventes d'une librairie/
 ├── 01. Enoncé/              # 📜 Énoncé du projet et consignes OpenClassrooms
 ├── 10. Données/             # 📊 Données brutes et de référence

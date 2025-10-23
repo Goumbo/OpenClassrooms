@@ -26,14 +26,14 @@ Ce projet vise à **identifier des groupements de pays** pour le lancement inter
 ---
 
 ## 3. 🗂️ Structure du projet
-
+```
 04. Produisez une étude de marché/
 ├── 01. Enoncé/              # 📜 Énoncé du projet et consignes OpenClassrooms
 ├── 10. Données/             # 📊 Données brutes et de référence
 ├── 20. Notebooks/           # 📓 Notebooks Jupyter pour l'analyse
 ├── 30. Scripts/             # 🐍 Scripts Python utilitaires
 └── 40. Resultats/           # 📈 Graphiques et résultats exportés
-
+```
 ---
 
 ## 4. 🛠️ Compétences mises en œuvre

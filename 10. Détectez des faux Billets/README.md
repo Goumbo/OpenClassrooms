@@ -89,7 +89,7 @@ Ce projet vise à **détecter automatiquement les faux billets** à partir de le
 ---
 
 ## 8. 💡 Particularités
-```
+
 - **Approche comparative** : Deux méthodes mises en concurrence pour identifier la plus performante.
 - **Application finale** : Algorithme fonctionnel pour analyser de nouveaux fichiers (`billets_production.csv`).
 
