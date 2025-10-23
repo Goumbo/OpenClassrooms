@@ -96,7 +96,7 @@ Ce projet vise à **identifier des groupements de pays** pour le lancement inter
 *F3 : Variation de stock et stabilité politique. F4 : Classement affaire et croissance économique.*
 
 ### 4. Projection des individus
-![Projection ACP](40.%20R%C3%A9sultats/Projection_des_Individus.png)
+![Projection ACP](40.%20R%C3%A9sultats/Projection_des_Individus_ACP.png)
 *Le **groupe bleu** (à droite) regroupe les pays avec une forte stabilité politique et une consommation élevée de volailles, proches de la France.*
 
 ### 5. Top 5 des pays recommandés
