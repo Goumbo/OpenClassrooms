@@ -81,19 +81,19 @@ Ce projet consiste à **rapprocher deux bases de données** (ERP et CMS) pour Bo
 
 ### Analyse Python
 - **Chiffre d'affaires par prix** :
-  ![Chiffre d'Affaire par Prix](40. Résultats/Chiffre_d_Affaire_par_Prix_du_Produit.png)
+  ![Chiffre d'Affaire par Prix](40.%20R%C3%A9sultats/Chiffre_d_Affaire_par_Prix_du_Produit.png)
 - **Prix et anomalies** :
-  ![Prix et Anomalies](40. Résultats/Visualisation_des_Prix_et_des_Prix_en_Anomalie.png)
+  ![Prix et Anomalies](40.%20R%C3%A9sultats/Visualisation_des_Prix_et_des_Prix_en_Anomalie.png)
 - **Boîte à moustaches** :
-  ![Boîte à Moustaches](40. Résultats/Visualisation_des_Prix_et_des_Prix_en_Anomalie_Boite_a_Moustache.png)
+  ![Boîte à Moustaches](40.%20R%C3%A9sultats/Visualisation_des_Prix_et_des_Prix_en_Anomalie_Boite_a_Moustache.png)
 
 ### Analyse R
 - **Détection des Prix en Anomalie** :
-  ![Détection des Prix en Anomalie](40. Résultats/Détection_des_Anomalies_dans_les_Prix_R.png)
+  ![Détection des Prix en Anomalie](40.%20R%C3%A9sultats/Détection_des_Anomalies_dans_les_Prix_R.png)
 - **Distribution des Prix** :
-  ![Distribution des Prix](40. Résultats/Distribution_des_Prix_R_Horizontal.png)
+  ![Distribution des Prix](40.%20R%C3%A9sultats/Distribution_des_Prix_R_Horizontal.png)
 - **Distribution des Prix V2** :
-  ![Distribution des Prix V2](40. Résultats/Distribution_des_Prix_R_Vertical.png)
+  ![Distribution des Prix V2](40.%20R%C3%A9sultats/Distribution_des_Prix_R_Vertical.png)
   
 ---
 

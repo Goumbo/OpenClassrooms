@@ -74,32 +74,32 @@ Voici quelques visualisations clés issues de l'analyse :
 ### 1. Fréquence d'achat par âge
 Un scatter plot montrant la fréquence d'achat en fonction de l'âge des clients.
 
-![Fréquence d'achat par âge](40. Résultats/Fréquence_d_achat_par_age.png)
+![Fréquence d'achat par âge](40.%20R%C3%A9sultats/Fréquence_d_achat_par_age.png)
 
 ### 2. Montant des achats par âge
 Un scatter plot montrant le montant des achats en fonction de l'âge des clients.
 
-![Montant des achats par âge](40. Résultats/Montant_des_Achats_par_Age.png)
+![Montant des achats par âge](40.%20R%C3%A9sultats/Montant_des_Achats_par_Age.png)
 
 ### 3. Nombre de ventes par mois
 Un bar plot montrant le nombre de ventes par mois sur deux ans.
 
-![Nombre de ventes par mois](40. Résultats/Nombre_de_Ventes_par_Mois.png)
+![Nombre de ventes par mois](40.%20R%C3%A9sultats/Nombre_de_Ventes_par_Mois.png)
 
 ### 4. Chiffre d'affaires par mois
 Un graphique combiné montrant le chiffre d'affaires mensuel et la moyenne mobile sur trois mois.
 
-![Chiffre d'affaires par mois](40. Résultats/Chiffre_Affaire_par_Mois.png)
+![Chiffre d'affaires par mois](40.%20R%C3%A9sultats/Chiffre_Affaire_par_Mois.png)
 
 ### 5. Boîte à moustaches des âge par catégorie
 Une boîte à moustaches montrant la distribution des âges par catégorie de livres.
 
-![Boîte à moustaches des âges par catégorie](40. Résultats/Distribution_Ages_paar_Catégories.png)
+![Boîte à moustaches des âges par catégorie](40.%20R%C3%A9sultats/Distribution_Ages_paar_Catégories.png)
 
 ### 6. Matrice de corrélation des variables quantitatives
 Une matrice montrant les corrélations entre l'âge, le prix, la catégorie et d'autres variables.
 
-![Matrice de corrélation](40. Résultats/Matrice_Correlation_Age_Prix_Catégorie.png)
+![Matrice de corrélation](40.%20R%C3%A9sultats/Matrice_Correlation_Age_Prix_Catégorie.png)
 
 ---
 

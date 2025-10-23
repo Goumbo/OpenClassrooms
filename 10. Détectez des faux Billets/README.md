@@ -75,15 +75,15 @@ Ce projet vise à **détecter automatiquement les faux billets** à partir de le
 ## 7. 🖼️ Visualisations Clés
 
 ### 1. Comparaison des modèles
-![Matrice](40. Résultats/Matrice de confusion K-Mean Vs Régression Logistique.png)
+![Matrice](40.%20R%C3%A9sultats/Matrice de confusion K-Mean Vs Régression Logistique.png)
 *La régression logistique surpasse le K-means avec 197 vrais positifs.*
 
 ### 2. Méthode des coudes
-![Coude](40. Résultats/Méthode des coudes.png)
+![Coude](40.%20R%C3%A9sultats/Méthode des coudes.png)
 *3 clusters optimaux identifiés pour le K-means.*
 
 ### 3. Boxplots des dimensions
-![Boxplots](40. Résultats/Boxplots des Dimension par classe.png)
+![Boxplots](40.%20R%C3%A9sultats/Boxplots des Dimension par classe.png)
 *Les faux billets se distinguent par leurs marges et longueurs.*
 
 ---

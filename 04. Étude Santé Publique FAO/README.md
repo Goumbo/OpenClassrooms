@@ -75,7 +75,7 @@ Ce projet s’inscrit dans le cadre d’une mission fictive pour la **FAO (Food 
 ## 7. 🖼️ Visualisations Clés
 
 ### Disponibilité Alimentaire (2014)
-![Disponibilité Alimentaire](40. Résultats/Disponibilite_Alimentaire.png)
+![Disponibilité Alimentaire](40.%20R%C3%A9sultats/Disponibilite_Alimentaire.png)
 *Répartition des usages alimentaires (nourriture, pertes, semences, etc.)*
 
 ### Carte de la Sous-Nutrition dans le Monde
