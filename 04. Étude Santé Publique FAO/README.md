@@ -79,7 +79,7 @@ Ce projet s’inscrit dans le cadre d’une mission fictive pour la **FAO (Food 
 *Répartition des usages alimentaires (nourriture, pertes, semences, etc.)*
 
 ### Carte de la Sous-Nutrition dans le Monde
-![Carte Sous-Nutrition](40. Résultats/Carte_Sous_Nutrition_Monde.png)
+![Carte Sous-Nutrition](40.%20R%C3%A9sultats/Carte_Sous_Nutrition_Monde.png)
 *Prévalence de la sous-nutrition par pays (en %)*
 
 ---
